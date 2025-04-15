@@ -26,7 +26,7 @@
     "AUTO_READ_STATUS": {
       "description": "Your status will be read automatically (type yes to activate or no to deactivate)",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Status will be sent to your inbox automatically (type yes to activate or no to deactivate)",
@@ -40,7 +40,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "BEN BOT",
       "required": false
     },
     "BOT_IMAGE": {
@@ -50,22 +50,22 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
       "description": "Enter your Heroku API key to be able to control your vars",
       "value": "",
-      "required": true 
+      "required": false 
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
       "value": "",
-      "required": true 
+      "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254727374449",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -80,17 +80,17 @@
     },
    "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
-      "value": "yes",
+      "value": "no",
       "required": false 
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Benson ",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61V2Y7qOBD9F79CX7InILU0IQQSAs2SsI5GIxM7C1mxHSBc8e+jNN3qlu4yPdLkybLjU6eqTh1/B3kRU+zgGvS+g5LEZ8hws2R1iUEP9KsgwAS0AYIMgh5YmJRn7v56qZit4q2aCRufiFVkzLmFibOX3LHD1QFzrfTyDO5tUFaHNPZ/AyjS6c0vE3S1zVNkHa+HrNoftS4tnDSwttF1b+wWJ8PyF1vuGdwbRBiTOA/NMsIZJjB1cD2HMfka/dbYbiWkW9HiZi6NvX3lx5PbdLFZdMxRwXbBUc9Wjm7bL1nxNfrHzi2TnUlZMD2l0jAj1Qsaax7KNHIwTtw5WC+r6U5Alzx50KdxmGNkI5yzmNVfrrtkDaVJaQnbE/JahyjVxH53rdHhfHQ8q67HbzMxL6SgPxGmXyPOYt8sd3qk7NXNLRDYnKJVsVCK0pyvtT5ZjTYuLZdJkS/0z8Tn5F0ryX+pO54Uxu2wcQ7jmbnszB2+xQnEOWUXlBZjbzamyXFkViNtwOlfo++cXpxLqi764sJShjOVFosL74XW6OAtX7hpGXbDdWKgSWj4H/Qhq8jvWA50J2yd0QqjcteK5E0Br25/tAxdL98N1yMxWA9PB30Zy1kURJvKiMKO5Hqu0r0aVyR2iTzYW0LWWVZ7a6dthUxNTSXWn18zSnBtI9Dj721AcBhTRiCLi7zZEzixDSA6u9gnmL2WF2yqlpMF5rq8DPYJrJmme7N5siT7hJ9McUu5eI5gD7XuOLCfQRuUpPAxpRhZMWUFqaeYUhhiCnp/vnaqSZrgrGB4HCPQA4IsqYIqqpIkdf+g3y4RZBSW5bccM9AGASmyKQY9RircBq8XVEWQdJVXBNOQTVNXtL6mqQqndbtcX1bkYZNi9gjqxRmmDGYl6PGqJKlClxOle/v/4SEPJFUeCIqiCoJgcHJf1oZmvy/L3FAzTN74PQ9JuP/VBjm+soeOm+qLfBsEMaFslVdlWkD0LvL3Q+j7RZUzt859o1lgAnqftjFjcR7SJrMqh8SP4jM2mjxAL4Apxfc2QPgc+7jBA9Qn8DS+ygtZ4fnKmTqR+nepNx2MivzxC/Z5FXMBepJxEDxJkFeeDjzuPsmi72NVUhEWEWjK8bCQ5s4vFT2fZ7PS6faVjqde1H1oLtFkZ7m7Ef+Ys4cUMcHovcoH6CdV6RUJzn+Dqx9ysd7CUysMXCPbDVM1zsUznSLof8J9SBz0vn/YtlGgBm++3200cz4CTbeaOD+ooSfKPwoih9krG5w3Qd460FxHmME4paAHjHFnkNTFgswC+XzZ7XRX1x1db4bkvWPvTvCYNAVxHvJWaa3U6FJbpn0UyuQ2GxTO0i3pODUtKxemS8TC5GcgoAfOW3hCXFTzMLwp/jRCC0F4Sfa+e0IKzLbTo8242LlldSYEkTwyC25ZRxQqa99IhWLS2hkTsk1zr56XWrJYassxZ+qX5ybaQzmfg+X21YjjoY0v43201qbBtrRW0kk5nAizV54yoKSoSk+89ku6hd3KV/W125ezuY1n/C4dSmX1Urn2fOV2XGswVKu8vMaXh0e9emT69jbFb+7x0FkQ41erf+vAv3bqQ/Lcvf0J4+3x+IWs+jhHprjix35Fc38aXQ27e9pPb6FiJKvTwdgv+1e5ezS3h90Y3JtZLlPIgoJkoAdgjkgRN6ORQsr0j6n9iRHwWhtktV6WLoPsfdiB3nyONQD3fwDf2rcSFwkAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -100,7 +100,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "2",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
@@ -125,13 +125,13 @@
     },
     "WELCOME_MESSAGE": {
       "description": "Enable welcoming message in groups (yes/no)",
-      "value": "no",
-      "required": false
+      "value": "yes",
+      "required": true
     },
     "GOODBYE_MESSAGE": {
       "description": "Enable  goodbye in groups (yes/no)",
-      "value": "no",
-      "required": false
+      "value": "yes",
+      "required": true
     },
     "AUDIO_CHATBOT": {
       "description": "Enable audio chatbot (yes/no)",
