@@ -50,7 +50,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "BEN-XMD",
       "required": false
     },
     "BOT_IMAGE": {
@@ -60,22 +60,22 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
       "description": "Enter your Heroku API key to be able to control your vars",
-      "value": "",
+      "value": "HRKU-1757d587-73c3-40d0-922c-00751e58891a",
       "required": true 
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
-      "value": "",
+      "value": "ben1",
       "required": true 
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254727374449",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -90,17 +90,17 @@
     },
    "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
-      "value": "yes",
+      "value": "no",
       "required": false 
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Benson Ngugi",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61Vy46jSBb9l9ja2eb9sJRSAwaMX4AfmcajWQQQ4DBPQ2Abl/wP/RfVm55Z9La/ppbzFSPSmcqUaromW2pWoSDi3HPvOffGF5AXuEZT1ILhF1BW+AQJ6pakLREYArWJIlSBPgghgWAIGj08ist0YI/XXu6btLnZ2QGkVme4me1X0NdrNV/xZ543qUdw64Oy8VMc/ACwlK+RNYMSg9b2ajU/WeYTa2zG0x6rzq9PJ1oX2f1+6cy9jHsEtw4R4grnsV7uUYYqmE5R60BcfY7+Rjkk5YLAY2PDBkuldD3P85m/KJZX4nC7q0udF/EpKmep+zn67WAVOifJvThp7bbuZoUpz73YtXbw1PFJH0uc7Ln2iFDK5k6/xnGOQitEOcGk/XTdPa20KH15VTN6MfF7cG4+7QUsEA8phdlzJruFuDZszz+mn6w7cxlNx2Vvj2Pv0vSibFMI2+eDTa6qJ/MJP460vNA5JodZ/ZG4U715JflLdbefrcXmuPfzeGqH6wv7XEbpKZnji2N6qigek3UcsL052Uqfo38wXdMXaSKsAtZ3LnBZpNJIm0ItnjUkVctgIEQ9wWmozHqnD0lT/YhluF8ZTWkcymziCf5JDtrQQzLTuu7hOL1sD2iWG3G1EwdM4zDLZH9VNFnbZMtxJcySg6DHiodd1B7oHZXqbcJS5whi5fElowS1VgiG9K0PKhTjmlSQ4CLv9kSpD2B4WqGgQuSlusC3Zmt9pK+la+q0yZG3N9aT3M4MukR67nODeDQo/XjlmWPlEfRBWRUBqmsUjnFNiqqdo7qGMarB8B8vQnU5VygrCJrgsBOf50RGZEWO4+Sf65/Oe0hqWJY/5YiAPoiqIpsjMCRVg/rg5YKkszwrM4bEabwh8LLGCoYkGZrKGZzOGnyXYXYPusYZqgnMSjCkRY4XeZ6hhFv/7+Gh64bCqrIky7QosNpI1GhN4gXD0FljZBjMj3nQ9O2ffZCjC7nbuCs+S/dBhKuabPKmTAsYvnn87ScMgqLJyarNA61boAoMP2wjQnAe111mTQ6rYI9PSOvyAMMIpjW69UGITjhA1gv/9ZgYlHh0a4TDbevNl2fjIe4U3Bf5/UjIsn7A+8GDRHPhA8eJ8MGX6eghiGRRpOlAYCUGdOW4T5Duzp8aOldyi9c34aw5UwM1yRVLZ/LU2atq8mLKuxNRhcK3KvswSJpyXSQo/wHuBcu1xcpzlhsEEwyTqy0YDjN+Utj5B9y7w8Hwy/vU1oqwwxPZqevuJgLo1OrifOeGIcd8b4gcdqfBf37549uvv3379V/fvv7+7eu/u4CvanRQISIQpzUYAm2xsqmpO9ankGvmimkqeqxosQLe1XsbCveuO9bVZEFl7YE9LTdxQfTtZNIb78VG5OyzS+Kjom81es5Jrff4P0DAEFCOHIzPZB8uVEGFIqercZKYVBkurpZpNVCWxspzNkuqOJPq1t4VZLN1R2crLa0pe2Yav+xllwtjhXQCl2QrZtzYVN3HLtrdRR+DDcymFx0avpocV8ZubdJTfjpfs757voq4HcxCmSfaANtYrSSRopSdr7LeedOzuC0MZGftyN5TtQgQ0zw9WwvlWasFFLv3cfUyLtPXZwq/TpK75yKMXqb+qxr/V7V3+1O3/geM13fkTyymwmrarsNJXcgi9WRNZ0ujXUV7DolNb1TrM28aq8aZrG1nnoFb19dlCklUVBkYApiHVYFD0AcprIny3sHfDwVaEvsga5WyXBFI3hofKN23IHtw+y9/bbKLIgkAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "2",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
