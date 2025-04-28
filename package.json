@@ -18,9 +18,9 @@
     "bmwxmd",
     "quantum",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "Benson-Ngugi"
   ],
-  "author": "Ibrahim Adams",
+  "author": "Benson Ngugi",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
