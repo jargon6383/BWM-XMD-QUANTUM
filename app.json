@@ -1,7 +1,7 @@
 
 {
   "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "description": "Best WhatsApp bot developed by Benson Ngugi",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -20,7 +20,7 @@
     },
     "AUTO_BIO": {
       "description": "Enter yes for your bot to auto update bio",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_REPLY_STATUS": {
@@ -70,12 +70,12 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
-      "value": "ben1",
+      "value": "Benson",
       "required": true 
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "254727374449",
+      "value": "254112674019",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "2",
+      "value": "3",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
