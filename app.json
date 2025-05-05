@@ -45,12 +45,12 @@
     },
     "AUTO_READ": {
       "description": "Messages will be marked as read automatically (type yes to activate or no to deactivate)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BEN-XMD",
+      "value": "Logan Paul-XMD",
       "required": false
     },
     "BOT_IMAGE": {
@@ -70,7 +70,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
-      "value": "Benson",
+      "value": "Logan Paul",
       "required": true 
     },
     "OWNER_NUMBER": {
@@ -90,7 +90,7 @@
     },
    "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
-      "value": "no",
+      "value": "yes",
       "required": false 
     },
     "OWNER_NAME": {
@@ -100,7 +100,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "BWM-XMD;;;H4sIAAAAAAAAA5VV7Y6yRhS+lTfzd30rIAiabFIUFVQQBURtmmaEAWb5dBhU9o1/egtNkyZturfQ3lKvYC+hYd3NbvJ+dMuvyTDznOec85xnPoEsxyWaoRr0P4GC4COkqFnSukCgDwZVECACWsCHFII+iOW0nnRGwxTmrFjF5sYe6olg9MbjiZTeO2vD2bVXTsLq3PYWXFqgqPYJ9r4BWCxcp6JTw2vPLXegcEdXl11byiXDDOeRcE7WqMsaE4Yy+i24NIgQE5yFoyJCKSIwmaHahJi8jz7S1e0MHhPkc1y3V6hibe2mlJ7SWVdBXRNVeo5WJX+aqeX76I9E25qk6CyLcc2V+GSaPtVi3l3Ex8H8/pxvRSf0lk4uW+GVfonDDPmajzKKaf3uuoejkp0cDZ1yubqToNm+51aVyejkHOT6IVp6ikVNxLKrLH8fcT/WOh4creeDEk/WeynzzYUkoU6nx6RGqteHyD/N/Vrcj6W3xE3yopX4/9S90vdh7E+ZvY06ud+WDjcrAU7mq2G9Vlh10w5too5sfc+x+jvpy8TIrUXVWS96IdRZ3bedO6meutscYskORskxEwwXlWf9lT6kFfkWy5m0rKnu08FyGzOFbRzToHvu6qYP2YrOccfYBmo3r/h2CZVJPE2z3WCrBnz3ZrdaT3rbHVMxvlW7KoezZLwZmPfjSFBOt08ZxajWfNBnLy1AUIhLSiDFedbscVynBaB/tJBHEH0qLxjXa2HjkNFNOU7KpJJU54YoCqrvJ1I3FHQkcVVPI5vK5eVb0AIFyT1UlshXcUlzUuuoLGGIStD/4alTTdIEpTlFU+yDPuAEnmW5rsgzbO/78rtTBGkJi+K7DFHQAgHJUx2BPiUVaoGnC8qg0xVlnpUVhleYriDzcm8gixwzHsoDReGaFNNrUBunqKQwLUCfFfkuw3UFibn82AIZOtOrfpqsO2wLBJiU1MmqIsmh/yKul5/Q8/Iqo1adecNmgQjov9lGlOIsLJvMqgwSL8JHNGzyAP0AJiW6tICPjthDDR5QLee0RAK2ZpCssW7+VKv4btlULsqz6xFPgJLEM95HQWC9jzzbET/2eJ752OP2vQCKvufzHmjKcR3d5s5XlaSMF2a0U9SwttR1OzYTjT/elapzr8pParhKABHkv1R5D724Kuw8Rtk3cBfuBJ7JdqntRbkd17utR5fpeba5YbQ3uFdpgf6nV7sc5n6Dx6ubwdha6aDpVhPnMzX0efFzQWSwOQ0eH375+58/f318+P2Px4eHvz5YKIUfgorACD4+/PZzQ+C5Ow20jyjESQn6YGioUKzC8Wh+kGtPnkzkUSgPQxm8dvNlOq/qPylOnTpTz4vxrjeD7nhWHq1kOzduQv1U3+RaL3dnGp6Kyfb2CyCgD8y1bdhWYptCwuyMwaFgTE7e08VhWEwl8aDJIm8qdsYrTdNHroN6Xrbcn5iqR7CX2FEmR5OOxu+WxYhdScmK3cficHnbRLuq6m0wdmnr5focHYx2FARGrfKCJg/L+s47eXwooppxOu27wHXaG53YmTiPbTva7bMONSHeKIuUVQ37XCxMbXXsLCN02k6xLF9948m3kuf3Aj9P9FWDAUZP9vvcnf/s4us4MJfWG4xnQ/+K5AaezOpFMtyoUy0NrDSJLDJnCnd4H+SKrh8PQxOOMdYwElxwaea8SCANcpKCPoCZT3LsgxZIYEnl14n+gkl0pRZIa7koLArpixEAuflmewtc/gWog++IqwgAAA==",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61VaY+qSBT9L/UV32v2xaSTAQRFEUVot8l8KKFYRBaLAsUX//uEtjv9krf1JMOnSlF17rn3nnvqGyjKtEYz1IHhN1DhtIUE9UvSVQgMgdZEEcJgAEJIIBiCjbpSoZTUvOcv5kL6ck5s0fKlq2Kzlx07wwdqeePjhHeK7BncB6BqDqc0+A3gSxxTbTvfu2TyUpwo80k+j1JWaWvlrKfnUIAbpkIevvps8AzuPSJMcVrERpWgHGF4mqFuCVP8OfrucrRL4qM+FjGt7riTexxlm9QSRxTM8vxloh8v5/OxsFbmJ+lPm/HtPK9odbXNLIW3NmfZ1VbedZMVGxjqurPiGONipYuR9aBfp3GBQitEBUlJ9+m6l0uLR2v5Cc5LrWDj4HY8my1ValQ3W7FSLJGLZJPZLEi21ueIz+djVuA8ieg+DTG5Xam5rF8n7U5wwlK/nZdLdndc79NLwX9PfInftZL9l7obllIZ+3ktX9lrM7UJa20Z/qlrOVGgx51w2EkjjVnIopjNP0ffzpaGeNxHgi2L5EjqkJlWyHZV3WzheuPw/jIcBd68WTHlB31IGvw7luLBaffR06Rd1JcaSmLSWosMKU3tKg4fsrbjZetVkU/wtMJ1l69ulD/mO5cK2cNRuClsciV6lXiScmB9+eJ04nkUaO7za0YZ6qwQDJn7AGAUpzXBkKRl0e/x4gDAsPVQgBF5rS6QlpFER0+OLTbGuXHpjXM1bUyFTnpS2A3VmU+1VI0NSE/4ZzAAFS4DVNconKQ1KXE3R3UNY1SD4d+vjepzxigvCZqmIRgCVuAlRmRlgRaFv+qvlwSSGlbV1wIRMAARLvM5AkOCGzQArxc0XdIlmTZFzhS5kSCwtMnQNKcKtKSNeIbvM8wfQf00RzWBeQWGjMSLPMsxAn8f/E88eIbTONNQOJVXOUEd6Rqr0YrICwYjjATtDzzE+z8DUKAreci4Lz7HDkCU4pq8FE11KmH4rvH3nzAIyqYgXlcEer9AGAyZj21ESFrEdZ9ZU0AcJGmL9D4PMIzgqUb3AQhRmwaoxwOrSRjwpd+45qa0zQkW1sG0jfsOJmXxOMKF8iFSFPYLLXOHLzwKhC+yLApfoMRBkWeiQyRGoC/Hw0H6O78U9Hhc6YcJ6+s0zmZCHqyu9EaXZe7gla+ifCgRYRS+V/kAg6yp/DJDxW9wu8qYCrVfPx01ucuc00Xd4a23d+XW+A73oXAw/Pbh2noZ9nji1p3uRWEM+m71cX5Qw5D9UQ8F7A+DeUManH6dwUPT9MHeOtHDhIjA9FSDIdCnN7dd0prhdJAP1PFYNWJVj1Xw0bl3Q3hM3LWLI8eZdLIz9ffjp2p1zSPoTlbr0W2tscumu9iO5ZnYMd3nn4CAIXDOBlY5W1QmxjZYE2pmCP4pMqYE1SZ30ZYuYZONbYYjm98uEm3NRxRV3kIvOixu+U1PFbU1T6xFFjvP8bMq35YJ0dTnPtpDQd8H256PIjuNvNU8NZINdUk5KdywlL09+3ue7EzeFoQdZVVarGRTM+gsH1+SbQsz6uQIfL7bi9uRW61hnM34q7QoSX5ajN6s6tUqT29PVPrmIg+9RSl6dfy3VvypYx/Kp++D7yDenpBfqEsLgnJy81dyO/Je2FUrvgT7gs00eu3KjBsepbrWb56RwNvqBdz7ka5OkEQlzsEQwCLEZRqCATjBmqgfw/sTP+CFAcg7tao8Asn7zAO1/6y4APd/AXkhxpYdCQAA",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
