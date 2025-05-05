@@ -15,7 +15,7 @@
     },
     "AUTO_REJECT_CALL": {
       "description": "Enter yes for your bot to auto reject calls",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_BIO": {
