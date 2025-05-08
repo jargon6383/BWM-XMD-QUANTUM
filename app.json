@@ -85,7 +85,7 @@
     },
     "AUTO_REACT": {
       "description": "Enter your auto react messages",
-      "value": "yes",
+      "value": "no",
       "required": false 
     },
    "AUTO_REACT_STATUS": {
