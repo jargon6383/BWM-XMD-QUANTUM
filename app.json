@@ -45,12 +45,12 @@
     },
     "AUTO_READ": {
       "description": "Messages will be marked as read automatically (type yes to activate or no to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "Logan Paul-XMD",
+      "value": "BEN-XMD",
       "required": false
     },
     "BOT_IMAGE": {
@@ -70,22 +70,22 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
-      "value": "Logan Paul",
+      "value": "VC",
       "required": true 
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "254727374449",
+      "value": "254799525360",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "☺️,🚀,🌎,✅",
       "required": false 
     },
     "AUTO_REACT": {
       "description": "Enter your auto react messages",
-      "value": "no",
+      "value": "yes",
       "required": false 
     },
    "AUTO_REACT_STATUS": {
