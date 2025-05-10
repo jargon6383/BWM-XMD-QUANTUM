@@ -70,17 +70,17 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
-      "value": "VC",
+      "value": "Ben",
       "required": true 
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "254799525360",
+      "value": "254727374449",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "☺️,🚀,🌎,✅",
+      "value": "🚀,🌎,✅",
       "required": false 
     },
     "AUTO_REACT": {
